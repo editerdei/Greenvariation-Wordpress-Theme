@@ -8,7 +8,7 @@ Summary
 
 Green Variation Theme with Front Page for Simple blog authors.
 
-Tested with WordPress 3.6 RC2.
+Tested with WordPress 3.7.1.
 
 Changelog
 
